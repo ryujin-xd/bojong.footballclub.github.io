@@ -385,7 +385,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #155126;
 }
 #hero .btn-get-started:hover {
-  background: #FF6B00;
+  background: #3AE069;
 }
 #hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
