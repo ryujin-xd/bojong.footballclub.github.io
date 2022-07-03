@@ -1,8 +1,8 @@
-# WOLF-OS | OFFICIAL | WEBSITE
+# BOJONG-FC | OFFICIAL | WEBSITE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zenitsu-xd/zenitsu-xd.github.io/master/assets/img/Programming.svg" target="_blank"></img>
+  <img src="https://github.com/ryujin-xd/bojong.football.club/blob/master/assets/img/hero-img.png" target="_blank"></img>
 </p>
 
-![Alt](https://repobeats.axiom.co/api/embed/683efc8bbe4fb905151d938e35cc6115eeb37585.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/1982616713aafdf7a6bb1b275cac9be72f3fc4fa.svg "Repobeats analytics image")
 
